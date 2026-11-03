@@ -40,15 +40,23 @@ E diversas outras competições!
 
 ## 🔗 Links úteis
 
-🌐 [Página inicial do JogosFutebol](https://jogosfutebol.com.br)
+### ⚽ Acompanhe os jogos de futebol
 
-⚽ [Jogos de futebol](https://jogosfutebol.com.br/jogos)
+📅 **[Jogos de Hoje — Futebol ao Vivo, Horários e Onde Assistir](https://jogosfutebol.com.br/jogos)**
 
-🏆 [Campeonatos](https://jogosfutebol.com.br/campeonatos)
+✅ **[Jogos de Ontem — Resultados e Placares das Partidas](https://jogosfutebol.com.br/jogos/ontem)**
 
-📰 [Notícias de futebol](https://jogosfutebol.com.br/noticias)
+⏭️ **[Jogos de Amanhã — Próximos Jogos, Horários e Transmissões](https://jogosfutebol.com.br/jogos/amanha)**
 
-👕 [Times de futebol](https://jogosfutebol.com.br/times)
+### 🏆 Explore o JogosFutebol
+
+🌐 [Página Inicial do JogosFutebol](https://jogosfutebol.com.br)
+
+🏆 [Campeonatos de Futebol](https://jogosfutebol.com.br/campeonatos)
+
+📰 [Notícias de Futebol](https://jogosfutebol.com.br/noticias)
+
+👕 [Times de Futebol](https://jogosfutebol.com.br/times)
 
 ---
 
