@@ -10,6 +10,15 @@ Nossa missão é facilitar o acesso a informações esportivas, reunindo resulta
 
 ---
 
+## 📱 Aplicativos oficiais — Android e iOS
+
+Acompanhe os jogos de hoje, placares ao vivo, resultados, calendários e classificações diretamente pelo seu smartphone.
+
+- 🤖 **Android — Google Play:** [Jogos Futebol: Hoje e Placar](https://play.google.com/store/apps/details?id=br.com.jogosfutebol)
+- 🍎 **iOS — App Store:** [Jogos Futebol: Hoje e Placar](https://apps.apple.com/br/app/jogos-futebol/id6833691720)
+
+---
+
 ## ⚽ O que você encontra no JogosFutebol?
 
 - 🔴 **Jogos ao vivo:** acompanhe placares e acontecimentos das partidas.
@@ -64,7 +73,7 @@ E diversas outras competições!
 
 O **JogosFutebol.com.br** é um projeto independente, desenvolvido para aproximar os torcedores das informações sobre seus clubes e competições favoritas.
 
-Trabalhamos para oferecer uma experiência de navegação rápida, organizada e acessível.
+Trabalhamos para oferecer uma experiência de navegação rápida, organizada e acessível, tanto no site quanto nos aplicativos para Android e iOS.
 
 **⚽ Futebol é aqui!**
 
